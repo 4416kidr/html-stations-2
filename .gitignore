@@ -1,3 +1,5 @@
 node_modules/*
 converage/*
 .techtrain/config.toml
+MEMO.md
+*.code-workspace
